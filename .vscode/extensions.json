@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "davidanson.vscode-markdownlint",
+    "eamodio.gitlens",
+    "editorconfig.editorconfig",
+    "github.codespaces",
+    "github.vscode-pull-request-github",
+    "hashhar.gitattributes",
+    "jasonnutter.vscode-codeowners"
+  ]
+}
