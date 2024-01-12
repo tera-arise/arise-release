@@ -1,5 +1,7 @@
 {
   "files.exclude": [
-    "out"
+    "out",
+    ".idea",
+    ".vs"
   ]
 }
