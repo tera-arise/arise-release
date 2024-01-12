@@ -18,3 +18,8 @@
 	sha = a52fdae06d1a2fb13ec9d091eb9767373add18cb
 	etag = 61cb86e861d093c45ecc86d7e1a99ad9b315df0eb99cb216a844439d3678b8c8
 	weak
+[file "nuget.config"]
+	url = https://github.com/tera-arise/.github/blob/master/syn/nuget.config
+	sha = a52fdae06d1a2fb13ec9d091eb9767373add18cb
+	etag = 1a37c641ea5aeda5671440422578c1a054e7177257856b137191cf6e181e29e1
+	weak
