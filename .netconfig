@@ -13,3 +13,8 @@
 	sha = a52fdae06d1a2fb13ec9d091eb9767373add18cb
 	etag = cf98ac95cf318b52e206b9003e342de9db2ecb7be062eab6edf1681b1f374b3a
 	weak
+[file "allowed_signers"]
+	url = https://github.com/tera-arise/.github/blob/master/syn/allowed_signers
+	sha = a52fdae06d1a2fb13ec9d091eb9767373add18cb
+	etag = 61cb86e861d093c45ecc86d7e1a99ad9b315df0eb99cb216a844439d3678b8c8
+	weak
