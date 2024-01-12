@@ -1,0 +1,15 @@
+[file ".editorconfig"]
+	url = https://github.com/tera-arise/.github/blob/master/syn/.editorconfig
+	sha = a52fdae06d1a2fb13ec9d091eb9767373add18cb
+	etag = b64aa1799407b1fea7d7ffe1d258020ff960cd6612f6a101430e0df7075056c8
+	weak
+[file ".gitattributes"]
+	url = https://github.com/tera-arise/.github/blob/master/syn/.gitattributes
+	sha = a52fdae06d1a2fb13ec9d091eb9767373add18cb
+	etag = 7605f9ae4a51eb262a13224cdbf7c7586a5276aa51d024922abb4a9cc42d5848
+	weak
+[file ".markdownlint.json"]
+	url = https://github.com/tera-arise/.github/blob/master/syn/.markdownlint.json
+	sha = a52fdae06d1a2fb13ec9d091eb9767373add18cb
+	etag = cf98ac95cf318b52e206b9003e342de9db2ecb7be062eab6edf1681b1f374b3a
+	weak
