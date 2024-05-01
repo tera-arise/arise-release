@@ -1,11 +1,12 @@
 # yaml-language-server: $schema=https://json.schemastore.org/dependabot-2.0.json
 version: 2
 updates:
-    - directory: /
-      package-ecosystem: nuget
-      schedule:
-          interval: daily
-          timezone: Europe/Copenhagen
-          time: "12:00"
-      open-pull-requests-limit: 25
-      labels: []
+  - package-ecosystem: nuget
+    directories:
+      - /
+    schedule:
+      interval: daily
+      timezone: Europe/Copenhagen
+      time: "12:00"
+    open-pull-requests-limit: 25
+    labels: []
